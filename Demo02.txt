@@ -1,2 +1,6 @@
 AAABBB
+<<<<<<< HEAD
 修改Master
+=======
+加入分支branch01
+>>>>>>> branch01
